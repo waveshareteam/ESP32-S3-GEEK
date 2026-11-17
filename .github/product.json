@@ -1,0 +1,13 @@
+{
+  "product": "ESP32-S3-GEEK",
+  "product_url": "https://www.waveshare.com/esp32-s3-geek.htm",
+  "tier": 0,
+  "target": "esp32s3",
+  "esp_idf": {
+    "versions": ["v5.3.1"]
+  },
+  "arduino": {
+    "core": "2.0.7",
+    "fqbn": "esp32:esp32:esp32s3:CDCOnBoot=cdc,FlashSize=16M,PartitionScheme=app3M_fat9M_16MB,PSRAM=enabled"
+  }
+}
