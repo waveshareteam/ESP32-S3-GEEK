@@ -6,8 +6,8 @@ Install the official MicroPython firmware using the [flashing guide](https://doc
 
 | Example | Main feature |
 | --- | --- |
-| [BLE](BLE/WS_Bluetooth.py) | BLE peripheral |
-| [LCD](LCD/lcd_example.py) | Display a BMP |
-| [SD](SD/boot.py) | Mount and use microSD |
-| [UART](UART/Uart0.py) | Serial communication |
+| [BLE](BLE/) | BLE peripheral |
+| [LCD](LCD/) | Display a BMP |
+| [SD](SD/) | Mount and use microSD |
+| [UART](UART/) | Serial communication |
 | [WIFI](WIFI/) | Access point and station modes |

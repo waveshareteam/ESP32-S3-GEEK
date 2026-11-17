@@ -6,8 +6,8 @@
 
 | 示例 | 主要功能 |
 | --- | --- |
-| [BLE](BLE/WS_Bluetooth.py) | BLE 外设 |
-| [LCD](LCD/lcd_example.py) | 显示 BMP |
-| [SD](SD/boot.py) | 挂载并使用 microSD |
-| [UART](UART/Uart0.py) | 串行通信 |
-| [WIFI](WIFI/) | 热点和客户端模式 |
+| [BLE](BLE/README_ZH.md) | BLE 外设 |
+| [LCD](LCD/README_ZH.md) | 显示 BMP |
+| [SD](SD/README_ZH.md) | 挂载并使用 microSD |
+| [UART](UART/README_ZH.md) | 串行通信 |
+| [WIFI](WIFI/README_ZH.md) | 热点和客户端模式 |

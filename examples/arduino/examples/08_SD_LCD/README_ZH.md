@@ -8,7 +8,7 @@
 
 ## 硬件需求
 
-ESP32-S3-GEEK 开发板。 插入 microSD 卡，并将 [pic](pic/) 中的编号 JPEG 复制到卡根目录。
+ESP32-S3-GEEK 开发板。 插入 microSD 卡，并将 [pic](pic/) 中的 `1.jpg` 到 `8.jpg` 复制到卡根目录。
 
 ## 怎么运行
 

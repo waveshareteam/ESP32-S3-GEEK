@@ -8,7 +8,7 @@ Demonstrates jPEG display from microSD.
 
 ## Hardware Required
 
-ESP32-S3-GEEK development board. Insert a microSD card and copy the numbered JPEGs from [pic](pic/) to its root.
+ESP32-S3-GEEK development board. Insert a microSD card and copy the JPEG files `1.jpg` through `8.jpg` from [pic](pic/) to its root.
 
 ## How to Run
 
